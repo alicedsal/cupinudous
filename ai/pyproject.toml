@@ -1,0 +1,16 @@
+[project]
+name = "ai"
+version = "0.1.0"
+description = "cupinudous ai service: retrieval, embeddings and step generation"
+readme = "README.md"
+authors = [
+    { name = "Alice Dos Santos Araujo Lourenco", email = "235800455+alicedsal@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
