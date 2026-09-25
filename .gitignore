@@ -1,0 +1,30 @@
+# secrets
+.env
+
+# java / maven
+web/target/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# cuda / c++ builds
+*.exe
+*.obj
+*.o
+*.exp
+*.lib
+build/
+cmake-build-*/
+
+# ides
+.idea/
+.vscode/
+*.iml
+
+# os
+Thumbs.db
+.DS_Store
