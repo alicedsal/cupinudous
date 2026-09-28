@@ -12,6 +12,6 @@ named after cup noodles, the fuel of many late-night coding sessions (chicken fl
 
 🫟 early setup.
 
-## license
+## research content
 
-code is mit licensed. research content belongs to its authors: cupinudous stores metadata, links and original summaries only, and credits every source.
+research content belongs to its authors: cupinudous stores metadata, links and original summaries only, and credits every source.
